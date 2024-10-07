@@ -1,0 +1,38 @@
+.link {
+  transition: all 0.3s ease;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.link:hover {
+  color: #d6536d;
+}
+
+.link.active {
+  color: white;
+}
+  
+
+  
+  .nav {
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    -webkit-box-shadow: -1px 11px 17px -3px rgba(0, 0, 0, 0.31);
+    box-shadow: -1px 11px 17px -3px rgba(0, 0, 0, 0.31);
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    z-index: 999;
+    padding: 16px 0;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #ffa2b6;
+      }
+  
+  /* .header {
+    margin-bottom: 10px;
+  } */

@@ -1,0 +1,15 @@
+.container {
+    padding-bottom: 40px;
+  }
+
+.backLink {
+    margin-bottom: 10px;
+     display: inline-flex;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 8px;
+    text-transform: uppercase;
+    color: #efb11d;
+  }

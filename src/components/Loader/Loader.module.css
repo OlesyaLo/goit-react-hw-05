@@ -1,0 +1,10 @@
+.loader {
+    display: grid;
+    place-items: center;
+    margin-top: 20px;
+  }
+
+  .loaderText {
+    margin-top: 20px;
+   color: red;
+  }
